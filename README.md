@@ -232,22 +232,6 @@ jupyter
 
 > 💡 Adjust `IMG_SIZE`, `BATCH_SIZE`, `EPOCHS`, and `FINE_TUNE_AT` (number of unfrozen layers) near the top of the relevant sections to experiment further.
 
-## 📈 Results
-
-> Fill in with your actual run's numbers from Section 10 (`results_df`) after execution.
-
-| Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
-|---|---|---|---|---|---|
-| Custom CNN | — | — | — | — | — |
-| VGG16 (Transfer Learning) | — | — | — | — | — |
-| MobileNetV2 (Transfer Learning) | — | — | — | — | — |
-| Best Model (Fine-Tuned) | — | — | — | — | — |
-
-The notebook also produces, for the overall best model (highest Recall):
-- 📊 Confusion matrix
-- 📄 Full `classification_report`
-- 📉 ROC curve with AUC
-- 🖼️ Qualitative sample predictions (correct vs. incorrect, color-coded)
 
 ## 💡 Key Insights
 
@@ -293,10 +277,8 @@ The notebook also produces, for the overall best model (highest Recall):
 
 ## 🔗 Project Links
 
-- **GitHub Repository:** `https://github.com/your-username/PRAICP-1012-Pneumonia-Chest-Xray-Classification.git`
-- **Google Drive (PPT & Report):** `https://drive.google.com/drive/folders/your-drive-folder-id`
+- **GitHub Repository:** `https://github.com/sameekshagithub/PRAICP-1012-Pneumonia-Chest-Xray-Classification.git`
 
-*(Replace the placeholders above with your own links before submission.)*
 
 ## 📄 License
 
