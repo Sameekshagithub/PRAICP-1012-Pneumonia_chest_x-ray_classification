@@ -1,0 +1,29 @@
+{
+  "trained_at": "2026-09-27T14:48:07.347595",
+  "models": {
+    "custom": {
+      "accuracy": 0.8028846153846154,
+      "precision": 0.762278978388998,
+      "recall": 0.9948717948717949,
+      "f1_score": 0.8631813125695217,
+      "roc_auc": 0.9531174665790051,
+      "model_path": "C:\\Users\\samee\\Downloads\\pneumonia_classifier\\pneumonia_classifier\\models\\custom.h5"
+    },
+    "vgg16": {
+      "accuracy": 0.8573717948717948,
+      "precision": 0.9192200557103064,
+      "recall": 0.8461538461538461,
+      "f1_score": 0.8811748998664887,
+      "roc_auc": 0.9313609467455621,
+      "model_path": "C:\\Users\\samee\\Downloads\\pneumonia_classifier\\pneumonia_classifier\\models\\vgg16.h5"
+    },
+    "mobilenet": {
+      "accuracy": 0.8830128205128205,
+      "precision": 0.8782816229116945,
+      "recall": 0.9435897435897436,
+      "f1_score": 0.9097651421508035,
+      "roc_auc": 0.9463949156256849,
+      "model_path": "C:\\Users\\samee\\Downloads\\pneumonia_classifier\\pneumonia_classifier\\models\\mobilenet.h5"
+    }
+  }
+}
